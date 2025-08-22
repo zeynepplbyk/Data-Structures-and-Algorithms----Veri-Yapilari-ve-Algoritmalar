@@ -1,1 +1,1 @@
-# -Data-Structures-and-Algorithms-Veri-Yap-lari-ve-Algoritmalar
+## Veri Yapıları ve Algoritmalar | Data Structures and Algorithms
