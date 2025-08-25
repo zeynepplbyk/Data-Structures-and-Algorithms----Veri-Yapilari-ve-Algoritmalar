@@ -18,3 +18,16 @@ print(arr) # [10, 35, 40, 50, 60]
 
 #--------------------------------------------------
 
+numbers = [5, 10, 15, 20, 25]
+
+# Toplamını bulma 
+total = sum(numbers)
+print("total:", total) # 75
+
+# En büyük sayıyı bulma
+print("En büyük:", max(numbers)) # 25
+
+# Ters çevirme
+
+numbers.reverse()
+print(numbers) # [25, 20, 15, 10, 5]
